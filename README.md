@@ -11,7 +11,8 @@
 * [Command Line](https://github.com/jlevy/the-art-of-command-line)
 * [Pandas](https://www.dataschool.io/python-pandas-tips-and-tricks/)
 * [Sklearn](https://github.com/justmarkham/scikit-learn-tips)
-* [My Starred Repos](TODO)
+* [My Starred Repos](stars.csv)
+
 
 ### How-do-Is
 
