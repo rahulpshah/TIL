@@ -18,6 +18,7 @@
 * [Unix Scripting](unix.md)
 * [JQ](jq.md)
 * [Install conda-environment in Jupyter](conda_jupyter.md)
+* [Register new subclasses to my abstract class without updating it](https://amir.rachum.com/blog/2017/07/28/python-entry-points/)
 
 ## Tutorial
 
