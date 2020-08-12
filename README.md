@@ -13,11 +13,11 @@
 * [Sklearn](https://github.com/justmarkham/scikit-learn-tips)
 * [My Starred Repos](stars.csv)
 
-
 ### How-do-Is
 
 * [Unix Scripting](unix.md)
 * [JQ](jq.md)
+* [Install conda-environment in Jupyter](conda_jupyter.md)
 
 ## Tutorial
 
