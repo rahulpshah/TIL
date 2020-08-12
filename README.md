@@ -5,6 +5,7 @@
 * [Amjith Ramanujam Awesome Command Line Tools PyCon 2017](https://www.youtube.com/watch?v=hJhZhLg3obk)
 * [So you want to be a Python expert](https://www.youtube.com/watch?v=cKPlPJyQrt4)
 * [20 Years of Product Management in 25 Minutes by Dave Wascha](https://www.youtube.com/watch?v=i69U0lvi89c)
+* [Writing Specs](https://www.youtube.com/watch?v=-4Yp3j_jk8Q)
 
 ### Awesome Links 
 
