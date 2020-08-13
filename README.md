@@ -14,12 +14,14 @@
 * [Sklearn](https://github.com/justmarkham/scikit-learn-tips)
 * [My Starred Repos](stars.csv)
 
+
 ### How-do-Is
 
 * [Unix Scripting](unix.md)
 * [JQ](jq.md)
 * [Install conda-environment in Jupyter](conda_jupyter.md)
 * [Register new subclasses to my abstract class without updating it](https://amir.rachum.com/blog/2017/07/28/python-entry-points/)
+* [How do I reuse SSH TCP connections](https://www.anchor.com.au/blog/2010/02/ssh-controlmaster-the-good-the-bad-the-ugly/)
 
 ## Tutorial
 
