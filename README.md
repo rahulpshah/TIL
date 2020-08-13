@@ -32,7 +32,7 @@
 * [How to do X in Y](TODO)
 
 ## Diagrams
-* [SQL](sql.png)
+* [SQL](sql.jpg)
 
 ### Awesome Tools
 
