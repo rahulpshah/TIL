@@ -31,6 +31,9 @@
 * [How to write a generator](TODO)
 * [How to do X in Y](TODO)
 
+## Diagrams
+* [SQL](sql.png)
+
 ### Awesome Tools
 
 * [Clipy](https://github.com/Clipy/Clipy)
