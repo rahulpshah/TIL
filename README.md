@@ -6,6 +6,7 @@
 * [So you want to be a Python expert](https://www.youtube.com/watch?v=cKPlPJyQrt4)
 * [20 Years of Product Management in 25 Minutes by Dave Wascha](https://www.youtube.com/watch?v=i69U0lvi89c)
 * [Writing Specs](https://www.youtube.com/watch?v=-4Yp3j_jk8Q)
+* [Distributed Transactions using Saga Pattern](https://www.youtube.com/watch?v=xDuwrtwYHu8)
 
 ### Awesome Links 
 
@@ -13,6 +14,7 @@
 * [Pandas](https://www.dataschool.io/python-pandas-tips-and-tricks/)
 * [Sklearn](https://github.com/justmarkham/scikit-learn-tips)
 * [My Starred Repos](stars.csv)
+* [Awesome Production ML](https://github.com/EthicalML/awesome-production-machine-learning)
 
 
 ### How-do-Is
