@@ -7,6 +7,7 @@
 * [20 Years of Product Management in 25 Minutes by Dave Wascha](https://www.youtube.com/watch?v=i69U0lvi89c)
 * [Writing Specs](https://www.youtube.com/watch?v=-4Yp3j_jk8Q)
 * [Distributed Transactions using Saga Pattern](https://www.youtube.com/watch?v=xDuwrtwYHu8)
+* There is more to life than being happy(https://www.youtube.com/watch?v=y9Trdafp83U)
 
 ### Awesome Links 
 
